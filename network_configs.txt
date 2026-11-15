@@ -1,0 +1,9 @@
+#ip route
+
+#ip dhcp pool lan
+
+#ip route
+
+#NAT config
+
+#Notes
